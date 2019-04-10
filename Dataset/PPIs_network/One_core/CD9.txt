@@ -1,0 +1,16 @@
+CD9:CD 53
+CD9:CD 63 antigen
+CD9:KIT
+CD9:CD 36
+CD9:CD 9 partner
+CD9:Tetraspanin 4
+CD9:Integrin alpha 3
+CD9:CD81 antigen
+CD9:CD 19
+CD9:CD 59
+CD9:Protein Kinase C alpha
+CD9:Collagen binding protein 2
+CD9:ADAM2
+CD9:CD 81 Partner 3
+CD9:DTS
+CD9:Integrin alpha 5
